@@ -1,15 +1,15 @@
 
-Mobile App Users Clustering Based on Activity Data
+**#Mobile App Users Clustering Based on Activity Data**
 
 This project uses machine learning to cluster mobile app users based on their activity data, helping identify different user behavior patterns. The final model is deployed as an interactive app using Streamlit.
 
 **Features**
 
-Clustering Analysis: Group mobile app users based on activity features like app usage time, screen-on time, battery drain, etc.
+**Clustering Analysis:** Group mobile app users based on activity features like app usage time, screen-on time, battery drain, etc.
 
-Interactive Prediction: Users can input activity data and predict their cluster using the app.
+**Interactive Prediction:** Users can input activity data and predict their cluster using the app.
 
-Visualizations: Display key feature distributions and insights from the clustering process.
+**Visualizations:** Display key feature distributions and insights from the clustering process.
 
 
 ![App Screenshot(1)](https://github.com/user-attachments/assets/d55ae8b0-3af7-4a89-9d18-f839aefd82ef)
