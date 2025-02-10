@@ -1,5 +1,5 @@
 
-**###Mobile App Users Clustering Based on Activity Data**
+<h1 style="color:blue;">Mobile App Users Clustering Based on Activity Data</h1>
 
 This project uses machine learning to cluster mobile app users based on their activity data, helping identify different user behavior patterns. The final model is deployed as an interactive app using Streamlit.
 
